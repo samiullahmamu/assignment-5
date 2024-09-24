@@ -115,3 +115,6 @@ header {
     background-color: #47de86;
     border-radius: 5px;
 }
+@media  {
+    max-width: 450px;    
+}
